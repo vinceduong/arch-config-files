@@ -5,4 +5,4 @@ set -x #echo on
 cp /etc/X11/xorg.conf.d/00-keyboard.conf ./files
 
 # i3 config file
-cp ~/.i3/config ./files/i3.config
+cp ~/.config/i3/config ./files/i3.config
